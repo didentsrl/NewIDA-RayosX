@@ -1320,7 +1320,6 @@ html.w-mod-js *[data-ix="modal"] {
     max-width: none;
   }
   .price-box {
-    display: block;
     margin-right: -12px;
     margin-left: -12px;
   }
